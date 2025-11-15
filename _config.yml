@@ -49,6 +49,7 @@ post:
 favicon: /img/favicon.webp # 默认方形头像
 isRoundedAvatar: false # 是否圆形头像
 isAvatarRotating: false # 圆形头像是否开启悬浮旋转
+displayTitleInTab: false # 是否在浏览器标签页显示文章标题
 
 # 是否启用一些特色工具 false | true
 tool:
